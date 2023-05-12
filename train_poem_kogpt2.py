@@ -28,7 +28,7 @@ with open('poemlove.txt', 'w', encoding='UTF-8') as f:
     for poem in data_list:
       try:
         f.write(poem + '\n')
-      else:
+      except:
         pass
 
 with open('poemlove.txt','r', -1, "utf-8") as f:

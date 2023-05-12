@@ -20,8 +20,8 @@ REPO_NAME = 'KoGPT2_poem_finetuning_full'  # REPO_NAME(저장할 파일 명) 구
 AUTH_TOKEN = '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'
 
 # Prepare data
-data_path = './data/poem_love_crawled_final.csv'
-data = pd.read_csv(data_path)
+data_path = './data/poem_love_crawled_final.xlsx'
+data = pd.read_excel(data_path)
 data_list = list(data['content'])
 
 with open('poemlove.txt', 'w', encoding='UTF-8') as f:

@@ -21,7 +21,7 @@ AUTH_TOKEN = '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'
 
 # Prepare data
 data_path = './data/poem_love_crawled_final.csv'
-data = pd.read_excel(data_path)
+data = pd.read_csv(data_path)
 data_list = list(data['content'])
 
 with open('poemlove.txt', 'w', encoding='UTF-8') as f:

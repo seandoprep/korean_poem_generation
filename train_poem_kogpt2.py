@@ -26,8 +26,10 @@ data_list = list(data['content'])
 
 with open('poemlove.txt', 'w', encoding='UTF-8') as f:
     for poem in data_list:
-      print(poem)
-      f.write(poem + '\n')
+      try:
+        f.write(poem + '\n')
+      else:
+        pass
 
 with open('poemlove.txt','r', -1, "utf-8") as f:
     lines = f.read()

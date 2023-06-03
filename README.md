@@ -30,6 +30,8 @@
 │   └── 📂poem_data
 │       └── 📄dica_poem_crawled.xlsx
 │       └── 📄poem_crawled_data.xlsx
+│       └── 📄annotation_one_caption_dict.json
+│       └── 📄annotation_captions_dict.json.zip
 ├── 📂
 ```
 ***

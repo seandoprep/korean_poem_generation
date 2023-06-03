@@ -24,9 +24,15 @@
 ```
 ├── 📄README.md
 ├── 📄requirements.txt
+├── 📄YAICON_POEM.py
+├── 📄poem_preprocess.ipynb
 ├── 📂data
-│    └── 📄
+│   └── 📂poem_data
+│       └── 📄dica_poem_crawled.xlsx
+│       └── 📄poem_crawled_data.xlsx
 ├── 📂
 ```
 ***
 ## Reference
+- [시 사랑 데이터](http://www.poemlove.co.kr/)
+- [디카시 마니아 시, 이미지 데이터](https://cafe.daum.net/dicapoetry/1aSh)

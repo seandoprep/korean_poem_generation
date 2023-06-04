@@ -11,9 +11,9 @@
 ## Project Summary
 ***
 ## Contributors🔥
-| [김서진](https://github.com/seandoprep) | [김성준](https://github.com/seandoprep) | [김형준](https://github.com/hyjun2352) | [이승재](https://github.com/seandoprep) | [이정은](https://github.com/seandoprep) | [최명헌](https://github.com/MyeongheonChoi) |
+| [김서진](https://github.com/seandoprep) | [김성준](https://github.com/Stellena) | [김형준](https://github.com/hyjun2352) | [이승재](https://github.com/Tim3s) | [이정은](https://github.com/ljeadec31) | [최명헌](https://github.com/MyeongheonChoi) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| <img src="https://avatars.githubusercontent.com/seandoprep" width="100"> | <img src="https://avatars.githubusercontent.com/seandoprep" width="100"> | <img src="https://avatars.githubusercontent.com/hyjun2352" width="100"> | <img src="https://avatars.githubusercontent.com/seandoprep" width="100"> | <img src="https://avatars.githubusercontent.com/seandoprep" width="100"> | <img src="https://avatars.githubusercontent.com/MyeongheonChoi" width="100"> 
+| <img src="https://avatars.githubusercontent.com/seandoprep" width="100"> | <img src="https://avatars.githubusercontent.com/Stellena" width="100"> | <img src="https://avatars.githubusercontent.com/hyjun2352" width="100"> | <img src="https://avatars.githubusercontent.com/Tim3s" width="100"> | <img src="https://avatars.githubusercontent.com/ljeadec31" width="100"> | <img src="https://avatars.githubusercontent.com/MyeongheonChoi" width="100"> 
 | **데이터 수집, KoGPT2** | **데이터 전처리 및 후처리** | **데이터 전처리 및 후처리** | **ClipCap** | **ClipCap** | **KoCLIP, 웹 Streamlit** |
 ***
 ## Architecture Flow Map

@@ -29,13 +29,20 @@ __사진으로만 남은 추억을 시로 간직해보는 건 어떨까요?__
 ***
 ## Model
 ***
+## How to use
+```bash
+# streamlit 으로 demo version 실행
+streamlit run YAICON_POEM.py
+```
+***
 ## Folder Structure 📂
 ```
 ├── 📄README.md
 ├── 📄requirements.txt
-├── 📄YAICON_POEM.py
-├── 📄poem_preprocess.ipynb
+├── 📄YAICON_POEM.py 
 ├── 📂data
+│   ├── 📄result.jpg
+│   ├── 📄poem_preprocess.ipynb
 │   └── 📂poem_data
 │       └── 📄dica_poem_crawled.xlsx
 │       └── 📄poem_crawled_data.xlsx

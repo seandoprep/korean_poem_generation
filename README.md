@@ -9,8 +9,9 @@
 # ✍️Korean Poem Generation
 ***
 ## Project Summary
-<img src="./data/result.jpg" title="result example"/>
-**사진으로만 남은 추억을 시로 간직해보는 건 어떨까요?**  
+<img src="./data/result.jpg" title="result example"/>  
+
+__사진으로만 남은 추억을 시로 간직해보는 건 어떨까요?__  
   
 'AI 시인 김삿갓'은 한국어 Image to poem 프로젝트입니다. 추억이 담긴 사진을 넣어주면 그에 맞는 한글 시를 써드립니다.  
   

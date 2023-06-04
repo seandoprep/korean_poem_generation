@@ -54,3 +54,11 @@ streamlit run YAICON_POEM.py
 ## Reference
 - [시 사랑 데이터](http://www.poemlove.co.kr/)
 - [디카시 마니아 시, 이미지 데이터](https://cafe.daum.net/dicapoetry/1aSh)
+```
+@article{mokady2021clipcap,
+  title={ClipCap: CLIP Prefix for Image Captioning},
+  author={Mokady, Ron and Hertz, Amir and Bermano, Amit H},
+  journal={arXiv preprint arXiv:2111.09734},
+  year={2021}
+}
+```

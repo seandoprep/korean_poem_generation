@@ -15,9 +15,7 @@ __사진으로만 남은 추억을 시로 간직해보는 건 어떨까요?__
   
 'AI 시인 김삿갓'은 한국어 Image to poem 프로젝트입니다. 추억이 담긴 사진을 넣어주면 그에 맞는 한글 시를 써드립니다.  
   
-참고할만한 논문들을 찾아봤지만 image to english poem과 관련된 논문들만 있을 뿐, image to korean poem task를 진행했다는 논문이나 프로젝트는 찾아볼 수 없었습니다. 본 프로젝트는 성능 좋은 large model들을 활용해서 한글 시를 생성합니다.  
-  
-한국어 image to poem이 영어 poem 생성보다 어려운 이유 중 하나는 마땅한 시 데이터 셋이 없다는 것입니다. 따라서 한국어 시 데이터 셋을 직접 구축하고, 이를 활용해서 GPT 기반 텍스트 생성 모델을 fine-tuning했습니다.  
+사진 내의 객체에만 집중하여 시를 생성하는 기존 방식에서 벗어나, 특정 이미지를 통해 떠올릴 수 있는 감정 및 심상들을 담은 시를 생성하는 네트워크를 구축했습니다. 
 ***
 ## Contributors🔥
 | [김서진](https://github.com/seandoprep) | [김성준](https://github.com/Stellena) | [김형준](https://github.com/hyjun2352) | [이승재](https://github.com/Tim3s) | [이정은](https://github.com/ljeadec31) | [최명헌](https://github.com/MyeongheonChoi) |

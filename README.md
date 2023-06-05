@@ -46,11 +46,10 @@ python kogpt2_base_finetune.py --repo_name {huggingface repo name} --auth_token 
 │   ├── 📄result.jpg
 │   ├── 📄poem_preprocess.ipynb
 │   └── 📂poem_data
-│       └── 📄dica_poem_crawled.xlsx
-│       └── 📄poem_crawled_data.xlsx
-│       └── 📄annotation_one_caption_dict.json
-│       └── 📄annotation_captions_dict.json.zip
-├── 📂
+├── 📂model
+│   ├── 📄kogpt2_base_finetune.py
+│   ├── 📄kogpt2_finetune.py
+│   └── 📄model.py
 ```
 ***
 ## Reference

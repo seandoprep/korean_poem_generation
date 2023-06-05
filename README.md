@@ -36,6 +36,7 @@ streamlit run YAICON_POEM.py
 # Kogpt2 finetuning
 python kogpt2_base_finetune.py --repo_name {huggingface repo name} --auth_token {huggingface auth token}
 ```
+저희가 fine-tuning한 KoGPT2 가중치는 [이곳](https://huggingface.co/sean3819/KoGPT2_poem_finetuning)에 공개되어 있습니다.
 ***
 ## Folder Structure 📂
 ```
@@ -55,6 +56,7 @@ python kogpt2_base_finetune.py --repo_name {huggingface repo name} --auth_token 
 ## Reference
 - [시 사랑 데이터](http://www.poemlove.co.kr/)
 - [디카시 마니아 시, 이미지 데이터](https://cafe.daum.net/dicapoetry/1aSh)
+- [Look-Attend-and-Generate-Poem](https://github.com/l-yohai/Look-Attend-and-Generate-Poem/tree/master)
 ```
 @article{mokady2021clipcap,
   title={ClipCap: CLIP Prefix for Image Captioning},

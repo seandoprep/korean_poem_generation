@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <img src="https://img.shields.io/badge/Python-grey?style=flat&logo=python&logoColor=p"/>
 <img src="https://img.shields.io/badge/PyTorch-grey?style=flat&logo=PyTorch&logoColor=red"/>
 <img src="https://img.shields.io/badge/Streamlit-grey?style=flat&logo=Streamlit&logoColor=red"/>

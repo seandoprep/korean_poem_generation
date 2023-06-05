@@ -5,8 +5,7 @@
 <img src="https://img.shields.io/badge/Git-grey?style=flat&logo=Git&logoColor="/>
 <img src="https://img.shields.io/badge/Notion-grey?style=flat&logo=notion&logoColor=notion"/>
 <img src="https://img.shields.io/badge/Huggingface-grey?style=flat&logo=huggingface&logoColor=huggingface"/>
-</div>  
-
+  
 # ✍️Korean Poem Generation
 ***
 ## Project Summary

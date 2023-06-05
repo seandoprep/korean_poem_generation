@@ -36,7 +36,7 @@ streamlit run YAICON_POEM.py
 ```
 ```bash
 # Kogpt2 finetuning
-python kogpt2_base_finetune.py --repo_name {huggingface repo name} --auth_token {huggingface auth token} 
+python kogpt2_base_finetune.py --repo_name <huggingface repo name> --auth_token <huggingface auth token> 
 ```
 ***
 ## Folder Structure 📂

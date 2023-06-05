@@ -26,7 +26,8 @@ __사진으로만 남은 추억을 시로 간직해보는 건 어떨까요?__
 | **데이터 수집, KoGPT2** | **데이터 전처리 및 후처리** | **데이터 전처리 및 후처리** | **ClipCap** | **ClipCap** | **KoCLIP, 웹 Streamlit** |
 ***
 ## Architecture Flow Map
-![image](https://github.com/seandoprep/korean_poem_generation/assets/102036011/4678674c-62a9-457f-8d4b-11ae6a2fecb6)
+![image](https://github.com/seandoprep/korean_poem_generation/assets/102036011/4884271d-2d76-40c7-a031-54d310b1ff1d)
+
 ***
 ***
 ## How to use
@@ -36,7 +37,7 @@ streamlit run YAICON_POEM.py
 ```
 ```bash
 # Kogpt2 finetuning
-python kogpt2_base_finetune.py --repo_name <huggingface repo name> --auth_token <huggingface auth token> 
+python kogpt2_base_finetune.py --repo_name {huggingface repo name} --auth_token {huggingface auth token}
 ```
 ***
 ## Folder Structure 📂

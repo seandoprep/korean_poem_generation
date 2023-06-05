@@ -8,7 +8,7 @@
 # ✍️Korean Poem Generation
 ***
 ## Project Summary
-<img src="./data/result.jpg" title="result example"/>  
+<img src="./data/result.png" title="result example"/>  
 
 __사진으로만 남은 추억을 시로 간직해보는 건 어떨까요?__  
   

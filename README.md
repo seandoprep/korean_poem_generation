@@ -36,7 +36,7 @@ streamlit run YAICON_POEM.py
 # Kogpt2 finetuning
 python kogpt2_base_finetune.py --repo_name {huggingface repo name} --auth_token {huggingface auth token}
 ```
-저희가 fine-tuning한 KoGPT2 가중치는 [이곳](https://huggingface.co/sean3819/KoGPT2_poem_finetuning)에 공개되어 있습니다.
+저희가 fine-tuning한 KoGPT2 모델의 가중치는 [이곳](https://huggingface.co/sean3819/KoGPT2_poem_finetuning)에 공개되어 있습니다.
 ***
 ## Folder Structure 📂
 ```

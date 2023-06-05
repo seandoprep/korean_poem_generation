@@ -11,7 +11,7 @@ if __name__ == "__main__":
         "--data_dir", type=str, default="./data/poem_data/"
     )
     parser.add_argument("--model_name_or_path", type=str, default="skt/kogpt2-base-v2")
-    parser.add_argument("--train_filename", type=str, default="poem_crawled_data.xlsx")
+    parser.add_argument("--train_filename", type=str, default="poem_preprocess_data.xlsx")
     parser.add_argument("--data_split_ratio", type=float, default=0.9, help="train data ratio")
 
     # train_arg

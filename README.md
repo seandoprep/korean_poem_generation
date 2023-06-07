@@ -25,6 +25,11 @@ __사진으로만 남은 추억을 시로 간직해보는 건 어떨까요?__
 ## Architecture Flow Map
 ![image](https://github.com/seandoprep/korean_poem_generation/assets/102036011/4884271d-2d76-40c7-a031-54d310b1ff1d)
 
+  CLiP ViT Encoder: CLIP은 여러 이미지와 캡션들 간의 상관관계를 학습합니다. 따라서, 이미지가 CLIP ViT Encoder를 통과하여 생성된 feature vector는 해당 이미지에 상응하는 캡션 정보를 담고 있습니다.
+
+  KOGPT2 in ClipCap: 캡션 정보가 담긴 feature vector로부터, 해당 feature를 잘 설명하는 한글 문장을 생성합니다.
+
+  Fine-tuned KoGPT2: 이 모델은 한글 시 데이터를 이용해 fine-tune 되었기 때문에, 한글 시와 같은 문장을 생성할 수 있습니다. 이미지를 잘 설명할 수 있는 한글 문장이 입력되면, KoGPT2는 이미지를 담은 한 편의 한글 시를 생성합니다.
 ***
 ***
 ## How to use
